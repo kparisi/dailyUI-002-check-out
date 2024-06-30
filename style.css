@@ -1,0 +1,39 @@
+
+
+.noto-sans {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h2{
+    font-family: "Noto Sans", sans-serif;
+    color: #E7688B;
+}
+
+h4{
+    font-family: "Noto Sans", sans-serif;
+    color: #E7688B;
+}
+
+.btn-pink {
+    background-color: #E7688B;
+    color: white;
+}
+  
+.text-primary{
+    font-family: "Noto Sans", sans-serif;
+    color: #E7688B;
+}
+
+.text-secondary{
+    font-family: "Noto Sans", sans-serif;
+    color: #E7688B;
+}
+
+.bg-pink{
+    background-color: #E7688B;
+}
